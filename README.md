@@ -28,7 +28,6 @@ Not built yet: crop, remote/premium frames, projects/drafts, PNG/JPEG quality co
 ## Stack
 
 React Native 0.87 · TypeScript · React Native Skia · Gesture Handler · Reanimated 4 (+ Worklets).
-See [CLAUDE.md](./CLAUDE.md) for the full spec, architecture, and locked dependency versions.
 
 ## Requirements
 
